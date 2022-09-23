@@ -2,10 +2,14 @@
 # Welcome to my Github profile.
 ## My name is Rosana and I am an FullStack developer!
 
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...android development as intern in Positivo Technology
+- 🔭 I’m currently working on with android development as intern in Positivo Technology
 - 🌱 I’m currently learning JAVA and unit tests
 
     ## Tecnologies
