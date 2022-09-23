@@ -9,8 +9,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JAVA and unit tests
 -->
     
+    <div style="display: inline_block" align="center"><br>
+  <img align=center alt="Rosana-Js" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192066103-70edaf10-9af1-484d-82d1-fcfcdba5cb49.svg">   
+
+</div>
    ```
-    
+    ![icons8-javascript (1)]()
+
    ```
 
 <p align="center">
