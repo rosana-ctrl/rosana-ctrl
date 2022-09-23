@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Welcome to my Github profile.
+## My name is Rosana and I am an FullStack developer!
 
 
 Here are some ideas to get you started:
@@ -32,4 +34,5 @@ Here are some ideas to get you started:
   <a href="https://https://www.linkedin.com/in/rosana-ribeiro-39364a35/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rosana Ribeiro's LinkedIn Prof![Uploading icons8-html-5.svg…]()
 ile" height="30" width="30">
+    <a href = "mailto:rosana.fribeiro.90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30" width="30"></a>
   </a>
