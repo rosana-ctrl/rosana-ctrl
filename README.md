@@ -18,6 +18,13 @@ Here are some ideas to get you started:
  <img align=center alt="Rosana-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067319-0364ec0a-fa09-4b46-a35e-6a8ec6ee96c7.svg"> 
 </div>
 
+## Tools
+<div style="display: inline_block" align="center"><br>
+<img align=center alt="Rosana-AndroidStudio" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067897-230c3b90-ea95-4ea5-b05d-0f6ebdf4bccf.svg"> 
+<img align=center alt="Rosana-VisualStudio" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067987-a224ceb3-f3f0-4c30-8b0a-978283ebfe4b.svg"> 
+<img align=center alt="Rosana-workbench" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192068165-2aaa1132-c116-4619-b4a5-b885b7d0ff78.svg">   
+</div>
+
 
 
 <p align="center">
