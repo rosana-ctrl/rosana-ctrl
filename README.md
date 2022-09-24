@@ -27,8 +27,9 @@
 <img align=center alt="Rosana-REACT" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067138-7125bc70-d274-4d0a-a319-42ce08a36d54.svg">  
 <img align=center alt="Rosana-NODEjs" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067214-825553aa-d0c8-4d8e-8de4-9475b7374188.svg">  
  <img align=center alt="Rosana-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067319-0364ec0a-fa09-4b46-a35e-6a8ec6ee96c7.svg"> 
-</div>![icons8-git]()
 
+
+</br>
 </br>
   <h2 align="center">Tools</h2>
 <div style="display: inline_block" align="center"><br>
@@ -37,9 +38,16 @@
 <img align=center alt="Rosana-workbench" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192068165-2aaa1132-c116-4619-b4a5-b885b7d0ff78.svg">  
 <img align=center alt="Rosana-git" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192070894-42365e58-5601-461a-9f72-8ba2c8f25209.svg">   
 </div>
+</br>
 
+<h2 align="center"></h2>
+<a href="https://github.com/rosana-ctrl">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosana-ctrl&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosana-ctrl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+ 
 <div style="display: inline_block" align="center"><br>
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">You can reach me at</h2>
   <a href="https://https://www.linkedin.com/in/rosana-ribeiro-39364a35/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rosana Ribeiro's LinkedIn Prof![Uploading icons8-html-5.svg…]()
 ile" height="30" width="30">
