@@ -27,13 +27,15 @@
 <img align=center alt="Rosana-REACT" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067138-7125bc70-d274-4d0a-a319-42ce08a36d54.svg">  
 <img align=center alt="Rosana-NODEjs" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067214-825553aa-d0c8-4d8e-8de4-9475b7374188.svg">  
  <img align=center alt="Rosana-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067319-0364ec0a-fa09-4b46-a35e-6a8ec6ee96c7.svg"> 
-</div>
+</div>![icons8-git]()
+
 </br>
   <h2 align="center">Tools</h2>
 <div style="display: inline_block" align="center"><br>
 <img align=center alt="Rosana-AndroidStudio" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067897-230c3b90-ea95-4ea5-b05d-0f6ebdf4bccf.svg"> 
 <img align=center alt="Rosana-VisualStudio" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067987-a224ceb3-f3f0-4c30-8b0a-978283ebfe4b.svg"> 
-<img align=center alt="Rosana-workbench" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192068165-2aaa1132-c116-4619-b4a5-b885b7d0ff78.svg">   
+<img align=center alt="Rosana-workbench" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192068165-2aaa1132-c116-4619-b4a5-b885b7d0ff78.svg">  
+<img align=center alt="Rosana-git" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192070894-42365e58-5601-461a-9f72-8ba2c8f25209.svg">   
 </div>
 
 <div style="display: inline_block" align="center"><br>
