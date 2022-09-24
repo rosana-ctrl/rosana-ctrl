@@ -17,7 +17,7 @@
 </p>
 
 
-   <h2 align="center">Tecnologies</h2>
+   <h2 align="center">Technologies</h2>
 <div style="display: inline_block" align="center"><br>
 <img align=center alt="Rosana-JAVA" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192067440-d7070740-e930-4446-86c3-7b07a6fe1e1c.svg"> 
 <img align=center alt="Rosana-Js" height="30" width="40" src="https://user-images.githubusercontent.com/83434769/192066103-70edaf10-9af1-484d-82d1-fcfcdba5cb49.svg">   
